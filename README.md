@@ -39,7 +39,7 @@ The controller checks the inserted amount and generates the appropriate dispense
 | `change_5` | Indicates ₹5 change |
 | `change_10` | Indicates ₹10 change |
 | `change_15` | Indicates ₹15 change |
-| `change_20` | Indicates ₹20 change |
+| `change_20` | Reserved output; remains LOW in the current FSM implementation. |
 
 ## 4. FSM State Description
 
