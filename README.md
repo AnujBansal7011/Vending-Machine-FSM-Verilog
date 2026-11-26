@@ -103,7 +103,7 @@ Vending-Machine-FSM-Verilog/
 │   └── TC03_Single_10_Rupee.png
 │
 └── README.md
-- ```
+ ```
 
 ## 9. Learning Outcomes
 
