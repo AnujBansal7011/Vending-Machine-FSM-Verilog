@@ -87,17 +87,21 @@ All listed cases were checked through manual simulation, and the observed output
 
 ## 8. Project Structure
 
-```text
-Vending_machine/
+Vending-Machine-FSM-Verilog/
 │
 ├── RTL/
 │   └── vending_fsm.v
 │
 ├── Manual Testing/
-│   └── Simulation waveform screenshots
+│   ├── TC_06_20_Rupees_Coin.png
+│   ├── TC_07_5plus20_Change10.png
+│   ├── TC_08_10plus10_Change5.png
+│   ├── TC_All_Manual_Test_Cases_Combined.png
+│   ├── TC01_Single_5_Rupee.png
+│   ├── TC02_Exact_15_Rupees.png
+│   └── TC03_Single_10_Rupee.png
 │
 └── README.md
-```
 
 ## 9. Learning Outcomes
 
