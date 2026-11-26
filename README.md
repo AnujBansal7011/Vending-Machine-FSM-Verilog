@@ -87,6 +87,7 @@ All listed cases were checked through manual simulation, and the observed output
 
 ## 8. Project Structure
 
+```text
 Vending-Machine-FSM-Verilog/
 │
 ├── RTL/
@@ -102,6 +103,7 @@ Vending-Machine-FSM-Verilog/
 │   └── TC03_Single_10_Rupee.png
 │
 └── README.md
+- ```
 
 ## 9. Learning Outcomes
 
